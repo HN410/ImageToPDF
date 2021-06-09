@@ -2,7 +2,7 @@
 ## 概要
 別リポジトリの[ImageSender](https://github.com/HN410/ImageSender)から送信された写真をもとに，PDF
 を作成するソフトです．
-![example_1](example/example_1.jpg)
+![example_1](https://github.com/HN410/ImageToPDF/tree/master/example/example_1.jpg)
 
 ## 使用しているライブラリ
 iText7
