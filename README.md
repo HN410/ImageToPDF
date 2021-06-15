@@ -1,6 +1,6 @@
 # ImageSender
 ## 概要
-別リポジトリの[ImageSender](https://github.com/HN410/ImageSender)から送信された写真をもとに，PDF
+[ImageSender](https://github.com/HN410/ImageSender)から送信された写真をもとに，PDF
 を作成するソフトです．
 
 使用例
