@@ -1,9 +1,10 @@
-# ImageSender
+# ImageToPDF
 ## 概要
 [ImageSender](https://github.com/HN410/ImageSender)から送信された写真をもとに，PDF
 を作成するソフトです．
 
-使用例
+使用例:
+ImageSenderアプリで写真を撮り，画像をソフトに送信
 ![example_1](example/exmple_1.jpg)
 
 画面に直線，矩形，テキストを入力して
